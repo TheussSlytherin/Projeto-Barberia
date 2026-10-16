@@ -1,0 +1,15 @@
+# Arquivos ignorados padrão
+/shelf/
+/workspace.xml
+# Arquivos compilados do Java
+*.class
+
+# Pastas de IDEs
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+bin/
+out/
